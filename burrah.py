@@ -6,10 +6,10 @@ from playwright.async_api import async_playwright
 PRODUCT_ALIAS = "amul-high-protein-plain-lassi-200-ml-or-pack-of-30"
 CHECK_INTERVAL = 8
 
-BOT_TOKEN = "8184251876:AAG_8o1bLwSX8edpg2mBG_B2urK494zyzNU"
-CHAT_ID = "1468438384"
+BOT_TOKEN = "" #your telegram bot token
+CHAT_ID = "15267817127" #your telegram chat id
 
-PINCODE = "411027"  # Your pincode
+PINCODE = "122345"  # Your pincode
 # ==================
 
 BASE_URL = "https://shop.amul.com"
